@@ -27,7 +27,7 @@ Tracks items and their locations with JWT-based authentication.
 ---
 
 ## Folder Structure
-
+```
 inventory-app/
 │── cmd/
 │ └── server/
@@ -43,7 +43,7 @@ inventory-app/
 │── go.mod
 │── go.sum
 
-
+```
 
 ## Setup & Run
 
